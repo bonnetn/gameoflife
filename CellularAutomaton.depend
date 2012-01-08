@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1349970270 source:e:\users\nicolas\desktop\cellularautomaton\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	"GameOfLife/gameoflife.h"
+	"GameOfLife/optionsimpl.h"
+	"GameOfLife/displayer.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_platform.h
+
+1326114594 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 e:\program files (x86)\codeblocks\sdl-1.2.15\include\begin_code.h
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\close_code.h
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keysym.h
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 e:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1348944117 e:\users\nicolas\desktop\cellularautomaton\cellularautomaton.h
+	"cell.h"
+	"igridgenerator.h"
+	"igridlistener.h"
+	"igridsimulator.h"
+	"iruleschecker.h"
+	"rule.h"
+
+1349464985 e:\users\nicolas\desktop\cellularautomaton\cell.h
+
+1349036012 e:\users\nicolas\desktop\cellularautomaton\igridgenerator.h
+	"options.h"
+
+1349799691 e:\users\nicolas\desktop\cellularautomaton\options.h
+	"rule.h"
+	"igridlistener.h"
+
+1349463327 e:\users\nicolas\desktop\cellularautomaton\rule.h
+	"cell.h"
+
+1349815454 e:\users\nicolas\desktop\cellularautomaton\igridlistener.h
+	"cell.h"
+
+1349467204 e:\users\nicolas\desktop\cellularautomaton\igridsimulator.h
+	"cell.h"
+	"options.h"
+
+1349469005 e:\users\nicolas\desktop\cellularautomaton\iruleschecker.h
+	"cell.h"
+	"options.h"
+
+1349465632 e:\users\nicolas\desktop\cellularautomaton\gameoflife\cellimpl.h
+	"cellimpl.h"
+	"../cell.h"
+
+1349954104 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\cellimpl.cpp
+	"cellimpl.h"
+	<cstdio>
+
+1349810207 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\optionsimpl.cpp
+	"optionsimpl.h"
+	"rule1.h"
+	"rule2.h"
+
+1349810192 e:\users\nicolas\desktop\cellularautomaton\gameoflife\optionsimpl.h
+	<map>
+	"../options.h"
+
+1349945482 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\displayer.cpp
+	"displayer.h"
+	"cellimpl.h"
+	<cmath>
+
+1349815454 e:\users\nicolas\desktop\cellularautomaton\gameoflife\displayer.h
+	"../IGridListener.h"
+	<SDL.h>
+
+1349885947 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\rule1.cpp
+	"rule1.h"
+	"cellimpl.h"
+	<stdio.h>
+
+1349463507 e:\users\nicolas\desktop\cellularautomaton\gameoflife\rule1.h
+	"../rule.h"
+
+1349885947 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\rule2.cpp
+	"rule2.h"
+	"cellimpl.h"
+	<stdio.h>
+
+1349465462 e:\users\nicolas\desktop\cellularautomaton\gameoflife\rule2.h
+	"../rule.h"
+
+1349884000 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\rulescheckerimpl.cpp
+	"rulescheckerimpl.h"
+	<cmath>
+
+1349814745 e:\users\nicolas\desktop\cellularautomaton\gameoflife\rulescheckerimpl.h
+	"../iruleschecker.h"
+	<cstdlib>
+
+1349886264 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\gridsimulatorimpl.cpp
+	"gridsimulatorimpl.h"
+	"../options.h"
+	"cellimpl.h"
+	<cstdio>
+
+1349815108 e:\users\nicolas\desktop\cellularautomaton\gameoflife\gridsimulatorimpl.h
+	"../igridsimulator.h"
+	"../igridlistener.h"
+	"rulescheckerimpl.h"
+
+1349892206 source:e:\users\nicolas\desktop\cellularautomaton\gameoflife\gameoflife.cpp
+	"gameoflife.h"
+	"cellimpl.h"
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cmath>
+
+1349811365 e:\users\nicolas\desktop\cellularautomaton\gameoflife\gameoflife.h
+	"../cellularautomatonmodel.h"
+	"../cell.h"
+	"gridsimulatorimpl.h"
+
+1349809614 e:\users\nicolas\desktop\cellularautomaton\cellularautomatonmodel.h
+	"options.h"
+

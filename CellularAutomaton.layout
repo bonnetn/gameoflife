@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="GameOfLife\cellimpl.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="1982" topLine="26" />
+	</File>
+	<File name="GameOfLife\cellimpl.h" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="GameOfLife\displayer.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="2468" topLine="75" />
+	</File>
+	<File name="GameOfLife\displayer.h" open="1" top="0" tabpos="10">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="GameOfLife\gameoflife.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="639" topLine="0" />
+	</File>
+	<File name="GameOfLife\gridsimulatorimpl.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="765" topLine="0" />
+	</File>
+	<File name="GameOfLife\gridsimulatorimpl.h" open="1" top="0" tabpos="14">
+		<Cursor position="236" topLine="0" />
+	</File>
+	<File name="GameOfLife\optionsimpl.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="328" topLine="0" />
+	</File>
+	<File name="GameOfLife\optionsimpl.h" open="1" top="0" tabpos="1">
+		<Cursor position="801" topLine="0" />
+	</File>
+	<File name="GameOfLife\rule1.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="681" topLine="0" />
+	</File>
+	<File name="GameOfLife\rule2.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="63" topLine="0" />
+	</File>
+	<File name="GameOfLife\rulescheckerimpl.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="270" topLine="0" />
+	</File>
+	<File name="GameOfLife\rulescheckerimpl.h" open="1" top="0" tabpos="3">
+		<Cursor position="221" topLine="0" />
+	</File>
+	<File name="cell.h" open="1" top="0" tabpos="17">
+		<Cursor position="52" topLine="0" />
+	</File>
+	<File name="cellularautomaton.h" open="1" top="0" tabpos="18">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="igridgenerator.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="igridlistener.h" open="1" top="0" tabpos="6">
+		<Cursor position="165" topLine="0" />
+	</File>
+	<File name="igridsimulator.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="408" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
